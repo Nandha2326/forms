@@ -1,0 +1,41 @@
+body{
+   
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box;
+    height: 100vh;
+    background: rgb(34,193,195);
+  background: linear-gradient(135deg, rgba(34,193,195,1) 0%,     rgba(253,187,45,1) 100%);
+  font-family: "work sans";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.form-cont{
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 9px;
+    height: 450px;
+    
+}
+.head{
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding: 15px;
+    color: #e09d0c;
+
+}
+.form{
+    padding: 10px 40px;
+}
+.form input{
+    margin-bottom: 15px;
+}
+.gender {
+   padding-left: 20px;
+}
+.Register{
+    width: 100%;
+    padding: 10px;
+}
